@@ -1,0 +1,34 @@
+factorial = (n):
+    total = 1
+    n to 1 (i):
+        # Multiply the running total.
+         total *= i.
+    total.
+# this line is comment
+10 times (i):
+    i string print
+    '! is: ' print
+    factorial (i) string print
+    "\n" print.
+
+"+"
+:
+12345679
+0xffaf
+123.23
+1e-2
+1.9956e+2
++2
+-2
+"this is string"
+"She said: \"Vimscript is tricky, but useful\"!"
+"foo \\" bar"
+        
+   
+a
+    b
+    c
+        d
+        e
+    f
+g
